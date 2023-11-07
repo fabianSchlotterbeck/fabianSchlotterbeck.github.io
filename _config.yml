@@ -5,6 +5,7 @@ plugins:
 - jekyll-feed
 header_pages:
   - index.md
+  - publications.html
 minima:
   skin: dark
 baseurl: ''
