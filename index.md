@@ -1,3 +1,8 @@
+---
+layout: main
+title: about
+---
+
 Hi! I‘m a postdoc in the psycholinguistics group of [Britta Stolterfoht](https://uni-tuebingen.de/de/23015) in [German Linguistics](https://uni-tuebingen.de/en/52) at the University of Tübingen. I’m studying how humans process language with a focus on meaning-related aspects. To this end, I develop logical, computational and procedural models and test such models using experimental methods, including forced-choice and rating tasks, self-paced reading, eye-tracking and event-related potentials.   
 
 Previously, I workied at the [Collaborative Research Center 833: The Construction of Meaning](https://uni-tuebingen.de/en/2965) (Project B1) hosted at the University of Tübingen where I obtained my PhD. After my PhD, I did a short research fellowship at the [Cognitive Semantics and Quantities](https://www.jakubszymanik.com/CoSaQ/) project led by [Jakub Szymanik](https://jakubszymanik.com/) at the [Institute of Logic Language and Computation](https://www.illc.uva.nl) at the University of Amsterdam. I also studied for one semester at the European Center for Chinese Studies at Beijing University.
