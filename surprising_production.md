@@ -51,7 +51,7 @@ The proposed project combines two influential lines of research in computational
 <h4>Talk</h4>
 <ul>
     <li>
-        Wang, H. &amp; <strong>Schlotterbeck, F.</strong> (2022). A quantitative exploration of adjective ordering preferences with an incremental Rational Speech Act model. Talk presented at the workshop on <a href="https://prosandcomps.github.io" target="_blank" class="external-link" rel="noreferrer">Procedural and computational models of semantic and pragmatic processes</a>at the <em><a href="https://2023.esslli.eu" target="_blank" class="external-link" rel="noreferrer">34th European Summer School in Logic, Language and Information</a></em> 
+        Wang, H. &amp; <strong>Schlotterbeck, F.</strong> (2022). A quantitative exploration of adjective ordering preferences with an incremental Rational Speech Act model. Talk presented at the workshop on <a href="https://prosandcomps.github.io" target="_blank" class="external-link" rel="noreferrer">Procedural and computational models of semantic and pragmatic processes</a> at the <em><a href="https://2023.esslli.eu" target="_blank" class="external-link" rel="noreferrer">34th European Summer School in Logic, Language and Information</a></em> 
     </li>
 </ul>
 
