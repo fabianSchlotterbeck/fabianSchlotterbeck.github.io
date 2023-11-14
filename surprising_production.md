@@ -9,7 +9,7 @@ title: surprising production
 </h2>
 <p markdown="1">
 
-(Research Seed Capital (RiSC) project, Baden-Württemberg Ministry of Science ([MWK-BW](https://mwk.baden-wuerttemberg.de/en/home)); young scientists funding excellence initiative, match RiSC, Federal Ministry of Education and Research ([BMBF](https://www.bundesregierung.de/breg-en/federal-government/ministries/federal-ministry-of-education)) as part of the [Excellence Strategy of the German Federal and State Governments](https://www.dfg.de/en/research_funding/funding_initiative/excellence_strategy/index.html), University of Tübingen).
+Research Seed Capital (RiSC) project, Baden-Württemberg Ministry of Science ([MWK-BW](https://mwk.baden-wuerttemberg.de/en/home)) \amp; young scientists funding excellence initiative, match RiSC, Federal Ministry of Education and Research ([BMBF](https://www.bundesregierung.de/breg-en/federal-government/ministries/federal-ministry-of-education)) as part of the [Excellence Strategy of the German Federal and State Governments](https://www.dfg.de/en/research_funding/funding_initiative/excellence_strategy/index.html), University of Tübingen
 
 </p>
 
@@ -20,9 +20,9 @@ The proposed project combines two influential lines of research in computational
 
 <h3>People</h3>
 
-- Principal Investigator: [Fabian Schlotterbeck](index.md)
-- Research Assistant: [Hening Wang](https://uni-tuebingen.de/de/254699)
-- Student Assistant: [Margarethe Annedore van Liempt](https://ksw.rptu.de/institute/institut-fuer-germanistik/wir-ueber-uns/sprachdidaktik/margarethe-van-liempt) (moved on to [RPTU Kaiserslautern-Landau](https://rptu.de))
+- [Fabian Schlotterbeck](index.md) (Principal Investigator)
+- [Hening Wang](https://uni-tuebingen.de/de/254699) (Research Assistant)
+- [Margarethe Annedore van Liempt](https://ksw.rptu.de/institute/institut-fuer-germanistik/wir-ueber-uns/sprachdidaktik/margarethe-van-liempt) (Student Assistant; moved on to [RPTU Kaiserslautern-Landau](https://rptu.de))
 
 <h3>Output</h3>
 <h4>Writing</h4>
