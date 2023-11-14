@@ -47,7 +47,7 @@ The proposed project combines two influential lines of research in computational
     </li>
 </ul>
 
-<h2>Talk</h2>
+<h4>Talk</h4>
 <ul>
     <li>
         Wang, H. &amp; <strong>Schlotterbeck, F.</strong> (2022). A quantitative exploration of adjective ordering preferences with an incremental Rational Speech Act model. Talk presented at the workshop on [Procedural and computational models of semantic and pragmatic processes](https://prosandcomps.github.io) at the <em>[34th European Summer School in Logic, Language and Information]()</em> 
