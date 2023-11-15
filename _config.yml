@@ -6,6 +6,7 @@ plugins:
 header_pages:
   - index.md
   - publications.html
+  - contact.html
 minima:
   skin: dark
 baseurl: ''
