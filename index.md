@@ -3,7 +3,7 @@ layout: main
 title: about
 ---
 
-![Fabian Schlotterbeck](assets/img/fabianSchlotterbeck25percent.jpeg)
+![Fabian Schlotterbeck](assets/img/fabianSchlotterbeck50percent.jpeg)
 
 Hi! I work as a postdoc in the psycholinguistics group of [Britta Stolterfoht](https://uni-tuebingen.de/de/23015) in [German Linguistics](https://uni-tuebingen.de/en/52) at the [University of Tübingen](https://uni-tuebingen.de). I’m studying how humans process language, with a focus on meaning-related aspects. To this end, I develop logical, computational and procedural models and test such models using experimental methods, including forced-choice and rating tasks, self-paced reading, eye-tracking and event-related potentials.   
 
