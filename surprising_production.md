@@ -27,8 +27,8 @@ The proposed project combines two influential lines of research in computational
 <h3>Output</h3>
 <h4>Writing</h4>
 <ul>
-    <li>
-        <strong>Schlotterbeck, F.</strong>, Wang, H. (2023). An incremental RSA model for adjective ordering preferences in referential visual context. In <em>Proceedings of the Society for Computation in Linguistics</em>, 6(12). doi: <a href="https://doi.org/10.7275/1why-1g73" target="_blank" class="external-link" rel="noreferrer">10.7275/1why-1g73</a>
+    <li> 
+        <strong>Schlotterbeck, F.</strong>, <strong>Wang, H.</strong> (2023). An incremental RSA model for adjective ordering preferences in referential visual context. In <em>Proceedings of the Society for Computation in Linguistics</em>, 6(12). doi: <a href="https://doi.org/10.7275/1why-1g73" target="_blank" class="external-link" rel="noreferrer">10.7275/1why-1g73</a>
     </li>
     <li>
         <strong>Schlotterbeck, F. </strong>&amp; Augurzky, P. (2023). Reading times show effects of contextual complexity and uncertainty in comprehension of German universal quantifiers. In Knowlton, T. Schwarz, F. &amp; Papafragou, A. (eds): <em>Proceedings of Experiments in Linguistic Meaning 2</em>. doi: <a href="https://doi.org/10.3765/elm.2.5392" target="_blank" class="external-link" rel="noreferrer">10.3765/elm.2.5392</a>
@@ -36,29 +36,30 @@ The proposed project combines two influential lines of research in computational
     <li>
         <strong>Schlotterbeck, F.</strong>, Augurzky, P. &amp; Ulrich, R. (2022). Degree of incrementality is modulated by experimental context – ERP evidence from German quantifier restriction. <em>Language, Cognition and Neuroscience</em>. <a href="https://doi.org/10.1080/23273798.2022.2125541" target="_blank" class="external-link" rel="noreferrer">doi: 10.1080/23273798.2022.2125541</a>
     </li>
+    <li>Tsvilodub, P., <strong>Wang, H.</strong>, Grosch, S. & Franke, M. (pending). A Comparison of Methods for Assessing LLM Performance. Submitted to Proceedings of LREC-COLING 2024 - The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, Torino, Italia.</li>
 </ul>
 
 <h4>Master's theses</h4>
 <ul>
     <li>
-        Van Liempt, M.A. (2023): German focus particles that are not in accordance with expectations; experiments with eben, ausgerechnet, gerade and genau. University of Tübingen.
+        <strong>Van Liempt, M.A.</strong> (2023): German focus particles that are not in accordance with expectations; experiments with eben, ausgerechnet, gerade and genau. University of Tübingen.
     </li>
     <li>
-        Wang, H. (2022): Subjektivität vs. diskriminatorische Stärke: Eine experimentelle Untersuchung zur Adjektivreihenfolgenpräferenz im visuellen Kontext. University of Tübingen.
+        <strong>Wang, H.</strong> (2022): Subjektivität vs. diskriminatorische Stärke: Eine experimentelle Untersuchung zur Adjektivreihenfolgenpräferenz im visuellen Kontext. University of Tübingen.
     </li>
 </ul>
 
 <h4>Talk</h4>
 <ul>
     <li>
-        Wang, H. &amp; <strong>Schlotterbeck, F.</strong> (2022). A quantitative exploration of adjective ordering preferences with an incremental Rational Speech Act model. Talk presented at the workshop on <a href="https://prosandcomps.github.io" target="_blank" class="external-link" rel="noreferrer">Procedural and computational models of semantic and pragmatic processes</a> at the <em><a href="https://2023.esslli.eu" target="_blank" class="external-link" rel="noreferrer">34th European Summer School in Logic, Language and Information</a></em>. 
+        <strong>Wang, H.</strong> &amp; <strong>Schlotterbeck, F.</strong> (2022). A quantitative exploration of adjective ordering preferences with an incremental Rational Speech Act model. Talk presented at the workshop on <a href="https://prosandcomps.github.io" target="_blank" class="external-link" rel="noreferrer">Procedural and computational models of semantic and pragmatic processes</a> at the <em><a href="https://2023.esslli.eu" target="_blank" class="external-link" rel="noreferrer">34th European Summer School in Logic, Language and Information</a></em>. 
     </li>
 </ul>
 
 <h4>Poster</h4>
 <ul>
     <li>
-        Wang, H. &amp; <strong>Schlotterbeck, F.</strong> (2022). Even with subjective adjectives precedence precedes dominance in preferred orderings. Poster presented at <em><a href="https://amlap2022.york.ac.uk" target="_blank" class="external-link" rel="noreferrer">Architectures and Mechanisms of Language Processing</a></em>, University of York.
+        <strong>Wang, H.</strong> &amp; <strong>Schlotterbeck, F.</strong> (2022). Even with subjective adjectives precedence precedes dominance in preferred orderings. Poster presented at <em><a href="https://amlap2022.york.ac.uk" target="_blank" class="external-link" rel="noreferrer">Architectures and Mechanisms of Language Processing</a></em>, University of York.
     </li>
 </ul>
 
