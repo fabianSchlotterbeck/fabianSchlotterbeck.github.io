@@ -7,9 +7,17 @@ title: surprising production
     <strong>Surprising production:</strong>
     Developing probabilistic production models to enable the prediction of reading times based on readers' expectations in situated language comprehension
 </h2>
+
 <p markdown="1">
 
 Research Seed Capital (RiSC) project, Baden-Württemberg Ministry of Science ([MWK-BW](https://mwk.baden-wuerttemberg.de/en/home)) & young scientists funding excellence initiative, match RiSC, Federal Ministry of Education and Research ([BMBF](https://www.bundesregierung.de/breg-en/federal-government/ministries/federal-ministry-of-education)) as part of the [Excellence Strategy of the German Federal and State Governments](https://www.dfg.de/en/research_funding/funding_initiative/excellence_strategy/index.html), University of Tübingen
+
+</p>
+
+
+<p markdown="1">
+
+August 2020 &ndash; December 2023
 
 </p>
 
