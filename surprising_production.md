@@ -35,6 +35,9 @@ The proposed project combines two influential lines of research in computational
 <h3>Output</h3>
 <h4>Writing</h4>
 <ul>
+    <li>
+	    Tsvilodub, P., <strong>Wang, H.</strong>, Grosch, S. & Franke, M. (submitted). A Comparison of Methods for Assessing LLM Performance. Submitted to Proceedings of LREC-COLING 2024 - The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, Torino, Italia.
+	</li>
     <li> 
         <strong>Schlotterbeck, F.</strong>, <strong>Wang, H.</strong> (2023). An incremental RSA model for adjective ordering preferences in referential visual context. In <em>Proceedings of the Society for Computation in Linguistics</em>, 6(12). doi: <a href="https://doi.org/10.7275/1why-1g73" target="_blank" class="external-link" rel="noreferrer">10.7275/1why-1g73</a>
     </li>
@@ -44,7 +47,6 @@ The proposed project combines two influential lines of research in computational
     <li>
         <strong>Schlotterbeck, F.</strong>, Augurzky, P. &amp; Ulrich, R. (2022). Degree of incrementality is modulated by experimental context – ERP evidence from German quantifier restriction. <em>Language, Cognition and Neuroscience</em>. <a href="https://doi.org/10.1080/23273798.2022.2125541" target="_blank" class="external-link" rel="noreferrer">doi: 10.1080/23273798.2022.2125541</a>
     </li>
-    <li>Tsvilodub, P., <strong>Wang, H.</strong>, Grosch, S. & Franke, M. (pending). A Comparison of Methods for Assessing LLM Performance. Submitted to Proceedings of LREC-COLING 2024 - The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, Torino, Italia.</li>
 </ul>
 
 <h4>Master's theses</h4>
