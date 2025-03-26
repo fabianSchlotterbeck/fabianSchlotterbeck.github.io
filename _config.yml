@@ -3,6 +3,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
+  - jekyll-seo-tag
 nav_pages:
   - index.md
   - publications.html
